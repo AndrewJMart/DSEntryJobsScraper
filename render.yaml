@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: DSEntryJobsAPI
+    env: docker
+    plan: free  
+    buildCommand: "" 
+    startCommand: "" 
